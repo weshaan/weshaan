@@ -1,6 +1,6 @@
 > I dont wanna ruin this one - the voice in my head.
 
-Hey i see you are staking me again...👀
+Hey i see you are stalking me again...👀
 
 <!---
 weshaan/weshaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
