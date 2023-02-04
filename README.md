@@ -7,7 +7,7 @@ contact me?
 - weshaan108@gmail.com
 
 ![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)
-![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif = 100x100)
 
 Hey i see you are stalking me again...👀
 
