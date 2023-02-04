@@ -6,6 +6,8 @@ I love to learn, **constructive** criticism is always appreciated!
 contact me? 
 - weshaan108@gmail.com
 
+![image](https://user-images.githubusercontent.com/118920744/216742342-cc85bb95-3072-4a92-83b7-09ee00bb965f.png)
+
 Hey i see you are stalking me again...👀
 
 <!---
