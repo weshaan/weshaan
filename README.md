@@ -1,12 +1,13 @@
-## HOLA AMIGOS ##
+## HOLA AMIGOS! ##
 A pleasure to meet you, no i am not mexican. 
-I love to learn, **constructive** criticism is always appreciated! 
+I love to learn, **constructive** criticism is always appreciated!🚀🤘
 > I dont wanna ruin this one - the voice in my head.
 
 contact me? 
 - weshaan108@gmail.com
 
 ![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)
+![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 Hey i see you are stalking me again...👀
 
