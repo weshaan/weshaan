@@ -1,4 +1,10 @@
+## HOLA AMIGOS ##
+A pleasure to meet you, no i am not mexican. 
+I love to learn, **constructive** criticism is always appreciated! 
 > I dont wanna ruin this one - the voice in my head.
+
+contact me? 
+- weshaan108@gmail.com
 
 Hey i see you are stalking me again...👀
 
