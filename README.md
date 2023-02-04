@@ -4,8 +4,7 @@ I love to learn, **constructive** criticism is always appreciated!🚀🤘
 > I dont wanna ruin this one - the voice in my head.
 
 contact me? 
-- weshaan108@gmail.com
-
+- weshaan108@gmail.com 
 ![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="310" height="310"/>
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
