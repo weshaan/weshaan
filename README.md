@@ -3,7 +3,7 @@ A pleasure to meet you, no i am not mexican.
 I love to learn, **constructive** criticism is always appreciated! 
 > I dont wanna ruin this one - the voice in my head.
 
-file:///C:/Users/Dell/Desktop/cde.gif
+![Alt Text](file:///C:/Users/Dell/Desktop/cde.gif)
 
 contact me? 
 - weshaan108@gmail.com
