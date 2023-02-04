@@ -7,7 +7,7 @@ contact me?
 - weshaan108@gmail.com 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" width="500" height="281"/>
+  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" />
 </p>
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
