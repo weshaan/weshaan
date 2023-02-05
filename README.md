@@ -13,7 +13,7 @@ contact me?
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
 Hey i see you are stalking me again...👀
 <p align="left">
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" width="150" height="150"/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" width="130" height="130"/>
 </p>
 <!---
 weshaan/weshaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
