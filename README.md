@@ -3,11 +3,6 @@ A pleasure to meet you, no i am not mexican.
 I love to learn, **constructive** criticism is always appreciated!🚀🤘
 > I dont wanna ruin this one - the voice in my head.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" width="562.5" height="316.5"/>
-</p>
-
-
 #### Contact 
 <div> 
   <a href="https://www.linkedin.com/in/weshaan-0-2-3b9460265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,7 +10,13 @@ I love to learn, **constructive** criticism is always appreciated!🚀🤘
   <a href = "weshaan108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=whilte" target="_blank"></a>
  </br>
 </br>
- 
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" width="562.5" height="316.5"/>
+</p>
+
+<div> 
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
