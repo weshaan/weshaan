@@ -11,7 +11,7 @@ I love to learn, **constructive** criticism is always appreciated!🚀🤘
  </br>
 </br>
 
-  ![Snake animation](https://github.com/eagrundy/insolitum/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/insolitum/insolitum/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
