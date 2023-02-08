@@ -5,9 +5,9 @@ I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
 #### Contact 
 <div> 
-  <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FobmRw_find-me-on-transparent-background-instagram-logo-hd%2F&psig=AOvVaw0qsHhIkUBiVUm6TmAhRmfu&ust=1675929126633000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD3ztS4hf0CFQAAAAAdAAAAABAE" target="_blank"></a>
-  <a href = "mailto: weshaan108@gmail.com"><img src="![image](https://user-images.githubusercontent.com/118920744/217468192-75645ac8-8081-4523-906d-e549c0d05c7b.png)
-" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ericagrundy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: weshaan108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
 </div>
@@ -17,6 +17,7 @@ I love to learn, **constructive** criticism is always appreciated!🚀🤘
 </p>
 
 <div> 
+  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
