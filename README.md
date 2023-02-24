@@ -42,7 +42,7 @@
     
   </div>
 
-<div style="display: flex; flex-direction: row;">
+<div>
   
   ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
