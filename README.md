@@ -10,7 +10,7 @@ A pleasure to meet you, I love to learn, **constructive** criticism is always ap
 
 #### Contact 
 <div> 
-    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png " height="100" width="100" target="_blank">
+    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="100" width="100" target="_blank">
       </a> 
     <a href="https://www.linkedin.com/in/weshaan-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" height="100" width="100" target="_blank"></a> 
   <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" height="100" width="100" target="_blank"></a>
