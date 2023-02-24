@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 I'm Eshaan </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" width="1500" height="500"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/>
 </p>
 
 
