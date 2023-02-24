@@ -5,6 +5,11 @@
   
   <p align="top">
     
+    A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
+
+> I dont wanna ruin this one - the voice in my head.
+
+    
 #### Find me 
 <div> 
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="60" width="60" align="right" target="_blank">
@@ -17,9 +22,6 @@
 </br>
 </p>
 
-A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
-
-> I dont wanna ruin this one - the voice in my head.
 
 
 
