@@ -5,7 +5,7 @@
        alt="ERROR: cant load image"/> 
   
   <p align="top">
-
+</br></br></br></br>
   A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘
     
  >  I dont wanna ruin this one - the voice in my head.
