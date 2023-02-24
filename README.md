@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/> 
 </p>
-
+<p align="right">
 #### Find me 
 <div> 
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="60" width="60" target="_blank">
@@ -14,6 +14,7 @@
   <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="55" width="75" target="_blank"></a>
 
 </br>
+</p>
 
 A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
