@@ -5,9 +5,9 @@
        alt="ERROR: cant load image"/> 
   
   <p align="top">
-  <h4> A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘 </h4>
+  <h3> <span style="font-weight:normal"> A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘 </h3>
     
- >  I dont wanna ruin this one - the voice in my head.
+ >I dont wanna ruin this one - the voice in my head.
 
     
  ###  Find me 
