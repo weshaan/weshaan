@@ -1,18 +1,17 @@
 <h1 align="center">Hey! 👋 I'm Eshaan </h1>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/> 
-</p>
-<p align="right">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"  alt="ERROR: cant load image"/> 
   
+  <p align="top">
 #### Find me 
 <div> 
-    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="60" width="60" target="_blank">
+    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="60" width="60" align="right" target="_blank">
       </a> 
-    <a href="https://www.linkedin.com/in/weshaan-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" height="60" width="60" target="_blank"></a> 
-  <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" height="60" width="60" target="_blank"></a>
- <a href = "https://discord.com/users/1018369685386960948"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" height="60" width="60" target="_blank"></a>
-  <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="55" width="75" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/weshaan-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" height="60" width="60" align="right" target="_blank"></a> 
+  <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" height="60" width="60" align="right" target="_blank"></a>
+ <a href = "https://discord.com/users/1018369685386960948"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" height="60" width="60" align="right" target="_blank"></a>
+  <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="55" width="75" align="right" target="_blank"></a>
 
 </br>
 </p>
