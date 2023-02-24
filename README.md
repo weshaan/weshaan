@@ -4,12 +4,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"  alt="ERROR: cant load image"/> 
   
   <p align="top">
-    A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
+     A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
-> I dont wanna ruin this one - the voice in my head.
+ > I dont wanna ruin this one - the voice in my head.
 
     
-#### Find me 
+ #### Find me 
 <div> 
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="60" width="60" align="right" target="_blank">
       </a> 
