@@ -41,8 +41,7 @@
  <!--! <a href="" target="_blank"><img src="" height="50" width="50" align="top" target="_blank"></a>--->
  
   <p align="right">
-    
-  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats) 
+     [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats) 
   
     
   </div>
