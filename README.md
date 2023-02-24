@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 I'm Eshaan </h1>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/> height="100" width="100"
 </p>
 
 A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
@@ -10,7 +10,7 @@ A pleasure to meet you, I love to learn, **constructive** criticism is always ap
 
 #### Contact 
 <div> 
-    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png height="100" width="100"" target="_blank">
+    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png " target="_blank">
       </a> 
     <a href="https://www.linkedin.com/in/weshaan-3b9460265/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" target="_blank"></a> 
   <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" target="_blank"></a>
