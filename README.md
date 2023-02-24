@@ -42,16 +42,15 @@
     
   </div>
 
-<div>
+<div style="display: flex; flex-direction: row;">
   
   ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats) 
   
-</div>
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=weshaan&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weshaan&theme=radical&layout=compact" />
 </div>
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
