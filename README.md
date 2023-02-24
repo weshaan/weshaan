@@ -1,4 +1,4 @@
-<h1 align="center">Hey!👋 I'm Eshaan </h1>
+<h1 align="center">Hey! 👋 I'm Eshaan </h1>
 A pleasure to meet you,
 I love to learn, **constructive** criticism is always appreciated!🚀🤘
 > I dont wanna ruin this one - the voice in my head.
