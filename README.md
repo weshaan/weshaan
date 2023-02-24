@@ -47,6 +47,7 @@
     
   </div>
 
+<p align="center">
 <div>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats) 
