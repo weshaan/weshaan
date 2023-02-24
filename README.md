@@ -3,13 +3,10 @@
 <p align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/>
 </p>
-
 <p align="right">
 A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
-
 > I dont wanna ruin this one - the voice in my head.
-
 #### Contact 
 <div> 
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-181818?style=for-the-badge&logo=Codechef&logoColor=white" target="_blank"></a> 
