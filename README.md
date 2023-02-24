@@ -44,7 +44,6 @@
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats) 
   
-    <\p>
     
   </div>
 
