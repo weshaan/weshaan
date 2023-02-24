@@ -1,5 +1,10 @@
 <h1 align="center">Hey! 👋 I'm Eshaan </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" width="562.5" height="316.5"/>
+</p>
+
+
 A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
 
@@ -17,10 +22,6 @@ A pleasure to meet you, I love to learn, **constructive** criticism is always ap
   ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif" alt="ERROR: cant load image" width="562.5" height="316.5"/>
-</p>
 
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
