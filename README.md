@@ -13,7 +13,7 @@
     
  ### Find me 
 <div> 
-  hspace="40"
+      
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png"  height="60" width="60" align="top" target="_blank">
       </a> 
     <a href="https://www.linkedin.com/in/weshaan-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" height="50" width="50" align="top" target="_blank"></a> 
@@ -25,6 +25,7 @@
 
   ### Languages and tools
   <div>
+      
  <a href="https://g.co/kgs/PAboKt" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" height="50" width="50" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/HHEBAH" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" height="50" width="50" align="top" target="_blank"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
