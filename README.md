@@ -39,9 +39,11 @@
   <a href="https://g.co/kgs/pEkBvp" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" height="40" width="40" align="top" target="_blank"></a>
 
  <!--! <a href="" target="_blank"><img src="" height="50" width="50" align="top" target="_blank"></a>--->
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats)
-  
+ 
+  <p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo)](https://git.io/streak-stats) 
+  <\p>
+    
   </div>
 
 <div>
