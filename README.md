@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" alt="ERROR: cant load image"/>
 </p>
 
-
+<p align="right">
 A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
 
@@ -18,6 +18,7 @@ A pleasure to meet you, I love to learn, **constructive** criticism is always ap
   <a href = "mailto: weshaan108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
+</p>
 
   ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
