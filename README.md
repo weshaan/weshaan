@@ -14,7 +14,7 @@
   <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="55" width="75" target="_blank"></a>
 
 </br>
-</p>
+
 
 A pleasure to meet you, I love to learn, **constructive** criticism is always appreciated!🚀🤘
 
