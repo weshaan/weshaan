@@ -4,10 +4,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"  alt="ERROR: cant load image"/> 
   
   <p align="top">
-     A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘
+    <font size="+2"> A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘
 
  > I dont wanna ruin this one - the voice in my head.
 
+      </font>
     
  #### Find me 
 <div> 
