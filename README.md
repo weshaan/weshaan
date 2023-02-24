@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"
-       style="margin: 50px 50px 50px 50px; alt="ERROR: cant load image"/> 
+      style=”margin: 10px;” alt="ERROR: cant load image"/> 
   
   <p align="top">
 
@@ -37,7 +37,6 @@
   <a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
   <a href="https://chat.openai.com/chat" target="_blank"><img src="https://www.kopykitab.com/blog/wp-content/uploads/2023/02/chat-gpt-logo.jpg" height="50" width="50" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/pEkBvp" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
-  <a href="https://www.w3schools.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/1200px-W3Schools_logo.svg.png" height="50" width="50" align="top" target="_blank"></a>
 
  <!--! <a href="" target="_blank"><img src="" height="50" width="50" align="top" target="_blank"></a>--->
   
