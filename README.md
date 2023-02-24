@@ -4,9 +4,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"  alt="ERROR: cant load image"/> 
   
   <p align="top">
-    <font size=+10>
+    <font size: 500%>
   A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘
 </font>
+    
  > I dont wanna ruin this one - the voice in my head.
 
     
