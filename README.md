@@ -4,14 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"  alt="ERROR: cant load image"/> 
   
   <p align="top">
-    <font size: 500%>
+
   A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘
-</font>
     
- > I dont wanna ruin this one - the voice in my head.
+ >  I dont wanna ruin this one - the voice in my head.
 
     
- #### Find me 
+ ### Find me 
 <div> 
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" height="60" width="60" align="top" target="_blank">
       </a> 
@@ -21,10 +20,14 @@
   <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="45" width="65" align="top" target="_blank"></a>
 </br></br></br></br></br>
 </br>
+
+
+ ### Languages and tools
+ <a href="" target="_blank"><ing src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" target="_blank"></a>
+  
+  
+  
 </p>
-
-
-
 
 
   ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
