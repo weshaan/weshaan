@@ -23,8 +23,22 @@
 
   ### Languages and tools
   <div>
- <a href="https://g.co/kgs/PAboKt" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" target="_blank"></a>
-  
+ <a href="https://g.co/kgs/PAboKt" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://g.co/kgs/HHEBAH" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://github.com/weshaan" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://g.co/kgs/MTt2iV" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://g.co/kgs/sE4xXb" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Premiere.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://chat.openai.com/chat" target="_blank"><img src="https://www.kopykitab.com/blog/wp-content/uploads/2023/02/chat-gpt-logo.jpg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://g.co/kgs/pEkBvp" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" height="50" width="50" align="top" target="_blank"></a>
+  <a href="https://www.w3schools.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/1200px-W3Schools_logo.svg.png" height="50" width="50" align="top" target="_blank"></a>
+
+ <!--! <a href="" target="_blank"><img src="" height="50" width="50" align="top" target="_blank"></a>--->
   
   </div>
 
