@@ -5,12 +5,12 @@
        alt="ERROR: cant load image"/> 
   
   <p align="top">
-  &nbsp; A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is always appreciated!🚀🤘 
+  &nbsp; A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is &nbsp; always appreciated!&nbsp;🚀🤘 
     
  > &nbsp; I dont wanna ruin this one - the voice in my head.
 
     
- ###  Find me 
+ ###  &nbsp; Find me 
 <div>  
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png"  height="45" width="45" align="top" target="_blank">
       </a> 
@@ -21,7 +21,7 @@
 </br>
 </div>
 
-  ###  Languages and tools
+  ### &nbsp; Languages and tools
   <div> 
  <a href="https://g.co/kgs/PAboKt" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/HHEBAH" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" height="40" width="40" align="top" target="_blank"></a>
