@@ -1,11 +1,5 @@
 <h1 align="center">Hey! 👋 This is Eshaan </h1>
 
-<div>
-  
-  ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif"  align="left"
        alt="ERROR: cant load image"/> 
@@ -51,6 +45,11 @@
 <p align="top">
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" width="150" height="150"/>
 </p>
+<div>
+  
+  ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 <div>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
