@@ -6,7 +6,7 @@
   
   <p align="top">
   &nbsp; A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is </br>
-  &nbsp;always appreciated!&nbsp;🚀🤘 
+   &nbsp;always appreciated!&nbsp;🚀🤘 
     
  > &nbsp; I dont wanna ruin this one - the voice in my head.
 
