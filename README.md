@@ -46,15 +46,16 @@
 <p align="top">
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="1" vspace="0" width="150" height="150"/>
 </p>
+
+
+
 <div>
 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-  ![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 <div>
