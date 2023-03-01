@@ -1,17 +1,18 @@
 <h1 align="center">Hey! 👋 This is Eshaan </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="left"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"
        alt="ERROR: cant load image"/> 
   
   <p align="top">
-  &nbsp; A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is </br>
-   &nbsp;always appreciated!&nbsp;🚀🤘 
+   A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is </br>
+    always appreciated!&nbsp;🚀🤘 
     
- > &nbsp; I dont wanna ruin this one - the voice in my head.
+ >  I dont wanna ruin this one - the voice in my head.
   
+ <!-- &nbsp-->
  
- ###  &nbsp; Find me 
+ ###  Find me 
 <div>  
     <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" hspace="1" vspace="2" height="45" width="45" align="top" target="_blank">
       </a> 
@@ -22,7 +23,7 @@
 </br></br>
 </div>
 
-  ### &nbsp; Languages and tools
+  ### Languages and tools
   <div> 
  <a href="https://g.co/kgs/PAboKt" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/HHEBAH" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
@@ -32,7 +33,7 @@
   <a href="https://github.com/weshaan" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Figma-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Photoshop.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Premiere.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Premiere.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a></br>
   <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://chat.openai.com/chat" target="_blank"><img src="https://www.kopykitab.com/blog/wp-content/uploads/2023/02/chat-gpt-logo.jpg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
