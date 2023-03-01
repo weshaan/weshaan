@@ -1,8 +1,7 @@
 <h1 align="center">Hey! 👋 This is Eshaan </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"
-       alt="ERROR: cant load image"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="300" height="auto" alt="ERROR: cant load image"/> 
   
   <p align="top">
    A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is </br>
@@ -44,11 +43,6 @@
   </div></br>
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
-<p align="top">
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="1" vspace="0" width="150" height="150"/>
-</p>
-
-
 
 <div>
 
@@ -64,6 +58,10 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
 </div>
+
+<p align="top">
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="0" vspace="0" width="150" height="150" />
+</p>
 <!---
 weshaan/weshaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
