@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 This is Eshaan </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="300" height="auto" alt="ERROR: cant load image"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/> 
   
   <p align="top">
    A pleasure to meet you, I love to learn,  <b> constructive </b> criticism is </br>
