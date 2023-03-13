@@ -35,7 +35,7 @@
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Premiere.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a></br>
   <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
-  <a href="https://chat.openai.com/chat" target="_blank"><img src="https://www.kopykitab.com/blog/wp-content/uploads/2023/02/chat-gpt-logo.jpg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+ <!-- <a href="https://chat.openai.com/chat" target="_blank"><img src="https://www.kopykitab.com/blog/wp-content/uploads/2023/02/chat-gpt-logo.jpg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> -->
   <a href="https://g.co/kgs/pEkBvp" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
 
  <!--! <a href="" target="_blank"><img src="" height="50" width="50" align="top" target="_blank"></a>--->
