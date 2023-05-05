@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/weshaan-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> 
   <a href="https://www.instagram.com/_weshaan_/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
  <a href = "https://discord.com/users/1018369685386960948"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
-  <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" hspace="1" vspace="0" height="40" width="54" align="top" target="_blank"></a>
+  <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" hspace="1" vspace="0" height="40" width="53" align="top" target="_blank"></a>
 </br></br>
 </div>
 
@@ -37,6 +37,7 @@
   <a href="https://stackoverflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/StackOverflow-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
  <!-- <a href="https://chat.openai.com/chat" target="_blank"><img src="https://www.kopykitab.com/blog/wp-content/uploads/2023/02/chat-gpt-logo.jpg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> -->
   <a href="https://g.co/kgs/pEkBvp" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+  <a href="https://g.co/kgs/Y2TJVi" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Arduino.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
 
  <!--! <a href="" target="_blank"><img src="" height="50" width="50" align="top" target="_blank"></a>--->
     
