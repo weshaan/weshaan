@@ -6,7 +6,7 @@
   <p align="top">
    A second year student with great interest in tech and loves to learn and explore :)&nbsp;🚀🤘 
   
- > - [Check out my blog page!](https://weshaan.hashnode.dev/)
+ > - <a href="https://weshaan.hashnode.dev/" target="_blank" rel="noopener noreferrer">Check out my blog page!</a>
  <!-- &nbsp-->
  
  ###  Find me 
