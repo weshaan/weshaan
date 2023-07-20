@@ -5,7 +5,7 @@
   
   <p align="top">
   I like coding. I don't drink coffee. Yes, we exist.</br>
-  Your not so regular 2nd year student, believe in livin. I love to learn and explore :)&nbsp;🚀🤘 
+  Existence identified as a 2nd-year student. I love to learn and explore :)&nbsp;🚀🤘 
   
  > - <a href="https://weshaan.hashnode.dev/" target="_blank" rel="noopener noreferrer">Check out my blog page!</a>
  <!-- &nbsp-->
