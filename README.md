@@ -52,6 +52,8 @@
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
 
+[![An image of @weshaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weshaan)](https://holopin.io/@weshaan)
+
 <div>
 
   <picture>
@@ -65,11 +67,14 @@
 
 <!--[![Eshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=weshaan)](https://github.com/weshaan/github-readme-stats)-->
 ![weshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=weshaan&theme=github_dark&hide_border=true&show_icons=true)
-
+ <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="0" vspace="0" width="170" height="170" align="right"/>
 <div>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="ERROR: cant load image" hspace="0" vspace="0" width="170" height="170" align="right"/>
+  <!--[![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)-->
+  
+ 
+  
+  
 
 </div>
 
