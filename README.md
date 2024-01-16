@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/> 
 
   <p align="top">
-  I like coding. I don't drink coffee. Yes, we exist.</br>
-  Existence identified as a 2nd-year student. I love to learn and explore :)&nbsp;🚀🤘 
+  Debugging my own story &nbsp;🚀🤘 
   
  > - <a href="https://weshaan.hashnode.dev/" target="_blank" rel="noopener noreferrer">Check out my blog page!</a>
  <!-- &nbsp-->
@@ -15,11 +14,12 @@
 <div>  
  <!--   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" hspace="1" vspace="2" height="45" width="45" align="top" target="_blank">
       </a> -->
-   <a href="https://twitter.com/_weshaan_" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" hspace="1" vspace="2" height="40" width="40" align="top" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/eshaan-walia-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eshaan-walia-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> 
+ <a href="https://twitter.com/_weshaan_" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Twitter.svg" hspace="1" vspace="2" height="40" width="40" align="top" target="_blank"></a>
+   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://storage.googleapis.com/kaggle-datasets-images/445/913/949f040bfb8ac14b4271103795b31797/dataset-card.png" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href = "https://discord.com/users/1018369685386960948"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" hspace="1" vspace="0" height="37" width="auto" align="top" target="_blank"></a>
-  <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://storage.googleapis.com/kaggle-datasets-images/445/913/949f040bfb8ac14b4271103795b31797/dataset-card.png" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+ 
 <!-- <a href = "https://leetcode.com/weshaan/"><img src="https://imgs.search.brave.com/Z4bDDKGirOdE1wVbm7JIJg6Vcwtsc3Aey_dcXXM3tRA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLTM1/MjE1NDItMjk0NDk2/MC5wbmc_Zj13ZWJw/Jnc9MjU2" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> -->
   <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" align="" width="auto" height="40" alt="ERROR: cant load image"/> 
 
