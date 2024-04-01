@@ -15,8 +15,8 @@
  <!--   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" hspace="1" vspace="2" height="45" width="45" align="top" target="_blank">
       </a> -->
   <a href="https://www.linkedin.com/in/eshaan-walia-3b9460265/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> 
- <a href="https://www.instagram.com/illuminating.self/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" hspace="1" vspace="2" height="40" width="40" align="top" target="_blank"></a>
-   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+ <a href="https://www.instagram.com/illuminating.self/" target="_blank"><img src="https://brandeps.com/logo-download/I/Instagram-Icon-logo-vector-01.svg" hspace="1" vspace="2" height="40" width="40" align="top" target="_blank"></a>
+   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/codechef/codechef-icon-filled-256.png?v=1675596522631" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href = "https://discord.com/users/1018369685386960948"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" hspace="1" vspace="0" height="36" width="auto" align="top" target="_blank"></a>
  
