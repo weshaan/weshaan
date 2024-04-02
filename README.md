@@ -30,6 +30,7 @@
   <div> 
  <a href="https://g.co/kgs/PAboKt" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/C.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/HHEBAH" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+   <a href="https://cmake.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CMake-Dark.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
     <a href="https://g.co/kgs/MTt2iV" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://g.co/kgs/sE4xXb" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
