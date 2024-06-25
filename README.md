@@ -18,7 +18,7 @@
  <a href="https://www.instagram.com/illuminating.self/" target="_blank"><img src="https://brandeps.com/logo-download/I/Instagram-Icon-logo-vector-01.svg" hspace="1" vspace="2" height="40" width="40" align="top" target="_blank"></a>
    <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://cdn-1.webcatalog.io/catalog/codechef/codechef-icon-filled-256.png?v=1675596522631" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
   <a href = "https://discord.com/users/1018369685386960948"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
-  <a href = "mailto: weshaan108@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" hspace="1" vspace="0" height="36" width="auto" align="top" target="_blank"></a>
+  <a href = "mailto: weshaan108@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" hspace="1" vspace="0" height="44" width="44" align="top" target="_blank"></a>
  
 <!-- <a href = "https://leetcode.com/weshaan/"><img src="https://imgs.search.brave.com/Z4bDDKGirOdE1wVbm7JIJg6Vcwtsc3Aey_dcXXM3tRA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLTM1/MjE1NDItMjk0NDk2/MC5wbmc_Zj13ZWJw/Jnc9MjU2" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> -->
   <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" align="" width="auto" height="40" alt="ERROR: cant load image"/> 
