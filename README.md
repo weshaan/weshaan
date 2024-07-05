@@ -57,7 +57,7 @@
 <!--![ERROR: cant load image](https://media.giphy.com/media/ycnZqQLGjv8ie7soSH/giphy.gif)--->
 <!--![ERROR: cant load image](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif =250x250)--->
 
- <img alt="holopin" src="https://holopin.me/weshaan" width="auto" height="310px">
+ <img alt="holopin" src="https://holopin.me/weshaan" >
 <!-- [![An image of @weshaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/weshaan)](https://holopin.io/@weshaan) -->
 
 <div>
