@@ -4,12 +4,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/> 
 
   <p align="top">
-  reconstructing bits of reality in my compiler of dilemma  &nbsp;🚀
+   Racing with an eagle, soaring with the wind. Flying? There were times I believed I could.</br>19 <!--&nbsp;🚀--> 
+  </p>
   
  > - <a href="https://weshaan.hashnode.dev/" target="_blank" rel="noopener noreferrer">Check out my blog page!</a>
  <!-- &nbsp-->
 
- 
+
  ###  Find me 
 <div>  
  <!--   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" hspace="1" vspace="2" height="45" width="45" align="top" target="_blank">
