@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/> 
 
   <p align="top">
-   Jack of many traits, master of some.</br>19 <!--&nbsp;🚀--> 
+   Jack of many traits, master of some.</br>20 <!--&nbsp;🚀--> 
   </p>
   
  > - <a href="https://weshaan.hashnode.dev/" target="_blank" rel="noopener noreferrer">Check out my blog page!</a>
