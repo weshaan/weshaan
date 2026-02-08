@@ -78,9 +78,10 @@
 
 </div>
 </br>
- <img align="right"  width="700" height="auto" alt="mlh2" src="https://github.com/user-attachments/assets/5dc77165-ddb3-4057-a7cb-ee89ccb30c47" />
-<img src="https://github.com/user-attachments/assets/8d72ad3e-99b4-4b3f-af2d-3a344f2fc78f" align="left"  width="400" height="auto" alt="ERROR: cant load image"/> 
+
+<img src="https://github.com/user-attachments/assets/8d72ad3e-99b4-4b3f-af2d-3a344f2fc78f" align="left"  width="380" height="auto" alt="ERROR: cant load image"/> 
 <img src="https://github.com/user-attachments/assets/d4729cb6-ea38-4c42-a348-68e832f2b1fd" align="right"  width="350" height="auto" alt="ERROR: cant load image"/> 
+<img src="https://streak-stats.demolab.com?user=weshaan&theme=dark&hide_border=true" align="right"  width="400" height="auto" alt="ERROR: cant load image"/> 
 
 <!--![Eshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=weshaan)](https://github.com/weshaan/github-readme-stats)
 ![weshaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=weshaan&theme=github_dark&hide_border=true&show_icons=true)
@@ -90,13 +91,13 @@
   
   <!--[![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)-->
   
-<div align="right" >
+<div align="center"  >
+ <img   width="640" height="auto" alt="mlh2" src="https://github.com/user-attachments/assets/5dc77165-ddb3-4057-a7cb-ee89ccb30c47" />
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
   
-  
+ <!--  [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 </div>
 
