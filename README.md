@@ -90,7 +90,10 @@
   
   <!--[![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)-->
   
+<div align="right" >
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=weshaan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
   
   
