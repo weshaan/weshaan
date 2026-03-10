@@ -1,9 +1,4 @@
- <div align="center"><h2> A senior once told me, “Proof of work, because words alone don’t sell products.” </h2></div>
- <img alt="holopin" src="https://holopin.me/weshaan" ><p align="center"><em>Hacktoberfest and holopin achievement badges.</em></p> 
-
----
-
- <div align="center"><h1> Hey! This is Eshaan </h1></div>
+<div align="center"><h1> Hey! This is Eshaan </h1></div>
 
 <p align="justify">I am a software developer with skills in full-stack development, backend systems, and applied AI projects.   <img src="https://komarev.com/ghpvc/?username=weshaan&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/></p>
 
@@ -78,6 +73,11 @@ Along the way, I have also explored complementary hobbies such as video editing 
 </div>
 
  <p align="center"><em>Contributing badges from MLH, GSSoC and Resourcio Community.</em></p>
+
+---
+
+ <div align="center"><h2> A senior once told me, “Proof of work, because words alone don’t sell products.” </h2></div>
+ <img alt="holopin" src="https://holopin.me/weshaan" ><p align="center"><em>Hacktoberfest and holopin achievement badges.</em></p> 
 
 ---
 
