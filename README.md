@@ -1,3 +1,21 @@
+ <div align="center"><h2> “Pramāṇam vinā na siddhiḥ.” </h2> <p align="center"><em>(Without evidence, nothing is established.)</em></p> </div>
+<!--![6's GitHub Stats][github-stats-img]
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
+-->
+
+<p align="center">
+ 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=html,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" width="336" alt="Please refresh page if content did not load"/>
+
+<img src="https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" width="500" alt="Please refresh page if content did not load"/>
+  
+
+    
+</p>
+ <p align="center"><em>My Github profile stats.</em></p>
+
+---
+
 <div align="center"><h1> Hey! This is Eshaan </h1></div>
 
 <p align="justify">I am a software developer with skills in full-stack development, backend systems, and applied AI projects.   <img src="https://komarev.com/ghpvc/?username=weshaan&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/></p>
@@ -50,24 +68,6 @@ Along the way, I have also explored complementary hobbies such as video editing 
 
 ---
 
- <div align="center"><h2> Things are eaiser to scale when measured. </h2></div>
-<!--![6's GitHub Stats][github-stats-img]
-[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
--->
-
-<p align="center">
- 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=html,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" width="336" alt="Please refresh page if content did not load"/>
-
-<img src="https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" width="500" alt="Please refresh page if content did not load"/>
-  
-
-    
-</p>
- <p align="center"><em>My Github profile stats.</em></p>
-
----
-
  <div align="center"><h2> In open source, the credit for every step forward belongs to the community. </h2>
 <img width="2580" height="780" alt="contributions" src="https://github.com/user-attachments/assets/42f055ac-3613-4634-9bef-1866151279ae" />
 </div>
@@ -76,7 +76,7 @@ Along the way, I have also explored complementary hobbies such as video editing 
 
 ---
 
- <div align="center"><h2> A senior once told me, “Proof of work, because words alone don’t sell products.” </h2></div>
+<!-- <div align="center"><h2> A senior once told me, “Proof of work, because words alone don’t sell products.” </h2></div> -->
  <img alt="holopin" src="https://holopin.me/weshaan" ><p align="center"><em>Hacktoberfest and holopin achievement badges.</em></p> 
 
 ---
