@@ -5,14 +5,16 @@
 
 <p align="center">
 
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=html,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot">
 <source media="(prefers-color-scheme: light)" srcset="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_light&langs_count=10&hide=html,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot">
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=weshaan&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=html,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" width="336" alt="Please refresh page if content did not load"/>
-
+</picture>
+<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark">
 <source media="(prefers-color-scheme: light)" srcset="https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_light">
 <img src="https://cheesits456-readme-stats.vercel.app/api?username=weshaan&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" width="500" alt="Please refresh page if content did not load"/>
-    
+</picture>
 </p>
  <p align="center"><em>My Github profile stats.</em></p>
 
