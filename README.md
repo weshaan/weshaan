@@ -69,7 +69,7 @@ Along the way, I have also explored complementary hobbies such as video editing 
 ---
 
  <div align="center"><h2> In open source, the credit for every step forward belongs to the community. </h2>
-<img width="2580" height="780" alt="Untitled" src="https://github.com/user-attachments/assets/4f722ec3-9534-45d2-916f-f1c2751f818f" />
+<img width="2580" height="780" alt="contributions" src="https://github.com/user-attachments/assets/42f055ac-3613-4634-9bef-1866151279ae" />
 </div>
 
  <p align="center"><em>Contributing badges from MLH, GSSoC and Resourcio Community.</em></p>
