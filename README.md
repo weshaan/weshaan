@@ -24,7 +24,7 @@
 
 <p align="justify">I am a software developer with skills in full-stack development, backend systems, and applied AI projects.   <img src="https://komarev.com/ghpvc/?username=weshaan&label=Profile%20views&color=0e75b6&style=for-the-badge" align="right"/></p>
 
-<p align="justify">My interest in coding started early in my school days, being curious about tech I used to visit the library and issue Java and OOPs books to later run the codes written in them on my laptop. During my university years while pursuing a B.Tech in Electronics and Computer Engineering at Thapar Institute of Engineering and Technology, I got the opportunity to receive valuable guidance and resources from seniors and teachers, allowing me to give my hobby a professional turn. Over time I expanded my skills across languages such as Java, JavaScript, Python, C++, and SQL, and began building projects involving web development, machine learning, and blockchain technologies. During this time I also participated in open-source programs and developer communities such as GirlScript Summer of Code, Hacktoberfest, Fossasia, and MLH. Working in these communities helped me gain practical experience by collaborating with other developers, discussing ideas, and solving real issues in active projects. You can explore my <a href="https://github.com/weshaan?tab=repositories">repositories</a> to see more of my personal projects or check out my <a href="https://weshaan.hashnode.dev/">blog</a> page.</p>
+<p align="justify">My interest in coding started early in my school days, being curious about tech I used to visit the library and issue Java and OOPs books to later run the codes written in them on my laptop. During my university years while pursuing a B.Tech in Electronics and Computer Engineering at Thapar Institute of Engineering and Technology, I got the opportunity to receive valuable guidance and resources from seniors and teachers, allowing me to give my hobby a professional turn. Over time I expanded my skills across languages such as Java, JavaScript, Python, C++, and SQL, and began building projects involving web development, machine learning, and blockchain technologies. During this time I also participated in open-source programs and developer communities such as Google Summer of Code, GirlScript Summer of Code, Hacktoberfest, Fossasia, and MLH. Working in these communities helped me gain practical experience by collaborating with other developers, discussing ideas, and solving real issues in active projects. You can explore my <a href="https://github.com/weshaan?tab=repositories">repositories</a> to see more of my personal projects or check out my <a href="https://weshaan.hashnode.dev/">blog</a> page.</p>
 
 <p align="justify">My goal with coding is primarily to have fun, and I also want to create something impactful. I enjoy being able to create something that other people can use and enjoy as well. I take criticism well, and use suggestions to improve my work.</p>
 
@@ -34,7 +34,8 @@ Along the way, I have also explored complementary hobbies such as video editing 
 <p align="justify">Recently, I have been focusing on improving my skills in system design, backend architecture, and AI-powered applications, particularly in areas such as large language models (LLMs), and neural networks. At the same time, I continue to explore new technologies and oppurtunities in the field of software engineering with machine learning.</p>
 
 
-<p align="center">  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2wwb3Yzb3MyOXN2ejUyMzB6ODIzZnh4anRlZDRza3U4anlxYmdjaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  width="200" height="auto" alt="ERROR: cant load image"/> </p>
+ ![GitHub GIF](mario_coding.gif) 
+
 
 
 
@@ -73,7 +74,7 @@ Along the way, I have also explored complementary hobbies such as video editing 
 ---
 
  <div align="center"><h2> In open source, the credit for every step forward belongs to the community. </h2>
-<img width="2580" height="630" alt="contributions" src="https://github.com/user-attachments/assets/42f055ac-3613-4634-9bef-1866151279ae" />
+<img width="2580" height="auto" alt="contributions" src="https://github.com/user-attachments/assets/42f055ac-3613-4634-9bef-1866151279ae" />
 </div>
 
  <p align="center"><em>Contributing badges from MLH, GSSoC and Resourcio Community.</em></p>
